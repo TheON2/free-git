@@ -1,5 +1,2 @@
-<<<<<<< HEAD
- 김도원3 really?
-=======
- 김도원3 really? true?
->>>>>>> 5065f2fbd656b5245c8b0176a666d3c58dc91d15
+김도원3 really?
+
